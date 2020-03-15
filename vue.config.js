@@ -1,4 +1,5 @@
 module.exports = {
   outputDir: 'docs',
-  productionSourceMap: false
+  productionSourceMap: false,
+  publicPath: '/vue-scrum-poker'
 }
